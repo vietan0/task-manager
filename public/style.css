@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Manrope', 'Helvetica', 'Roboto', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#title {
+  text-align: center;
+}
+
+#taskList {
+  border-radius: 1rem;
+  padding: 2rem;
+}
